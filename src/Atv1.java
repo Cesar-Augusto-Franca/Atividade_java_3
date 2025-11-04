@@ -1,6 +1,5 @@
-import java.beans.DefaultPersistenceDelegate;
 import java.util.Scanner;
-public class Main {
+public class Atv1 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int[] numeros = new int[5];

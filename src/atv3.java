@@ -1,9 +1,7 @@
+import java.util.Scanner;
+
 public class atv3 {
     public static void main(String[] args) {
-        import java.util.Scanner;
-
-        public class MediaNotas {
-            public static void main(String[] args) {
                 Scanner scanner = new Scanner(System.in);
 
                 // Declara um vetor (array) para armazenar 5 notas (valores double)
@@ -32,5 +30,4 @@ public class atv3 {
             }
         }
 
-    }
-}
+
